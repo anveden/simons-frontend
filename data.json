@@ -1,0 +1,21 @@
+{
+  "basic-info": {
+    "name": "simon",
+    "age": "34",
+    "city": "Stockholm"
+  },
+  "work-info": {
+    "professions": [
+      "Bartender",
+      "Windscreen technician",
+      "Chef",
+      "System developer"
+    ],
+    "workplaces": [
+      "20+ restaurants, pubs, clubs",
+      "Carglass",
+      "Utepedagogik AB",
+      "Globalconnect"
+    ]
+  }
+}
